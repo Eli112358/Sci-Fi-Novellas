@@ -3,7 +3,7 @@
 ### Chapters
 
 [Previously](#previously)  
-1. [Name](#name)
+1. [Name](#chapter-1-name)
 
 ### Previously
 
