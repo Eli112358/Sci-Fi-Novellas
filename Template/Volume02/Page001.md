@@ -1,9 +1,14 @@
 # Title
 
+### Chapters
+
+[Previously](#Previously)
+1. [Name](#Name)
+
 ### Previously
 
     Paragraph start...
 
-### Now
+### Chapter 1: Name
 
     Paragraph start...
