@@ -6,7 +6,7 @@
 
 ### Chapter 1: Disaster
 
-&nbsp;&nbsp;&nbsp;&nbsp;A passenger car on a New York subway train is packed full around 6 pm, dimly lit. A business man in his late 40s, standing, headed home after a long day at work, his tie is untied and suit coat unbuttoned; an assembly line operator no older than 30, sitting, hot and sweaty from his long shift, still wearing his brown, dirty apron; and a strip dancer in her mid 20s, standing, on her way to a strip club are the closest to a young man in a grey, long sleeve shirt and jeans, sitting, about 19, on his home from class at collage.
+&nbsp;&nbsp;&nbsp;&nbsp;A passenger car on a New York city subway train is packed full around 6 pm, dimly lit. A business man in his late 40s, standing, headed home after a long day at work, his tie is untied and suit coat unbuttoned; an assembly line operator no older than 30, sitting, hot and sweaty from his long shift, still wearing his brown, dirty apron; and a strip dancer in her mid 20s, standing, on her way to a strip club are the closest to a young man in a grey, long sleeve shirt and jeans, sitting, about 19, on his home from class at collage.
 
 &nbsp;&nbsp;&nbsp;&nbsp;As the young man gazes at business man's tie, deep in thought, he hears the train crash into something. He sees the passengers around him get thrown backwards and injured in the process. He stands up and scrambles to the business man to try to help him, who hit his head on one of the seats, blood streaming down his face from a cut across his left forehead about an inch long. Then the young man blinked.
 
