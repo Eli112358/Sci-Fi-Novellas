@@ -1,9 +1,9 @@
 # Title
 
-## Previously
+### Previously
 
   Paragraph start...
 
-## Now
+### Now
 
   Paragraph start...
