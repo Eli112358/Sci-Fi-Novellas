@@ -3,6 +3,7 @@
 ### Chapters
 
 1. [Disaster](#chapter-1-disaster)
+1. [After Math](#chapter-1-after-math)
 
 ### Chapter 1: Disaster
 
@@ -21,3 +22,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Thank you," Forest responded, taking the cloth and applying pressure himself as the assembly line operator checked the stripper, but she had already departed. "Go help others, I'll be fine."
 
 &nbsp;&nbsp;&nbsp;&nbsp;"No, you might have a concussion," Lysander cautioned as the assembly line operator went to help some else a bit farther off. "I'll stay with you until the paramedics arrive."
+
+### Chapter 2: After Math
+
+&nbsp;&nbsp;&nbsp;&nbsp;Lysander focussed on Forest's forehead and thought of nothing else. After about 20 seconds he started to recognize the individual cells. As he continued to concentrate, he could identify the various molecules. As he examined, he detect some microscopic damage around his brain, some of the membranes anchoring his brain had tiny tears.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"I'm almost certain you have a concussion," Lysander confirmed. The paramedics had arrived and began to help those they could reach first. He alerted them, "Hey, I have a concussion over here."
+
+&nbsp;&nbsp;&nbsp;&nbsp;Two paramedics came over to help and one asked, "how do you know?"
+
+&nbsp;&nbsp;&nbsp;&nbsp;"I don't know how; I just do," Lysander fibbed.
+
+&nbsp;&nbsp;&nbsp;&nbsp;"How did you about the crash?" Forest asked Lysander as they took him to an ambulance. Lysander responed by rubbing his right index finger across his nose.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Lysander got into an ambulance to get checked out at the hospital. He only had a few scrapes and bruises, but nothing serious. He was free to home.
