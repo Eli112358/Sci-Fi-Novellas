@@ -2,8 +2,8 @@
 
 ### Chapters
 
-[Previously](#Previously)  
-1. [Name](#Name)
+[Previously](#previously)  
+1. [Name](#name)
 
 ### Previously
 
