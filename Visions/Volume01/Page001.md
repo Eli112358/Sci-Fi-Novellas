@@ -3,7 +3,7 @@
 ### Chapters
 
 1. [Disaster](#chapter-1-disaster)
-1. [After Math](#chapter-1-after-math)
+1. [After Math](#chapter-2-after-math)
 
 ### Chapter 1: Disaster
 
